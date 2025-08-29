@@ -1,0 +1,6 @@
+[submodule "Nonefinity_BE"]
+	path = Nonefinity_BE
+	url = https://github.com/genius-wizard-dev/Nonefinity_BE
+[submodule "Nonefinity_FE"]
+	path = Nonefinity_FE
+	url = https://github.com/genius-wizard-dev/Nonefinity_FE
